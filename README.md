@@ -304,6 +304,44 @@ for (FreshdeskSearchAPI.Response res : results) {
 - Ensure the Named Credential is active and accessible by the required user profiles or permission sets.
 - Use valid Freshdesk domain and API key corresponding to your account.
 
+## 📝 Output
+
+
+Installed slack this:
+<img width="1555" height="267" alt="image" src="https://github.com/user-attachments/assets/3b2d4891-ae9f-41f2-a97c-49872ba878da" />
+
+Installed package:
+<img width="1571" height="386" alt="image" src="https://github.com/user-attachments/assets/9214530a-b3eb-45ef-956b-270bea87ba4e" />
+
+Manage Slack Connection
+<img width="1573" height="583" alt="image" src="https://github.com/user-attachments/assets/ea36fce1-d371-4110-999c-b2b55771be0f" />
+<img width="614" height="573" alt="image" src="https://github.com/user-attachments/assets/6c7e5f62-da6c-4d98-aa76-d5a1cfad56e4" />
+
+<img width="1564" height="141" alt="image" src="https://github.com/user-attachments/assets/312c487b-5dea-4c55-8197-52e1c94dbffe" />
+
+Agentforce Connection:
+<img width="1895" height="894" alt="image" src="https://github.com/user-attachments/assets/63e9c0b9-9837-48d2-a449-0f28387c6d37" />
+
+Activate the Connection in Slack
+<img width="1300" height="990" alt="image" src="https://github.com/user-attachments/assets/c8fc496c-9430-49a3-a64d-160b635d6045" />
+<img width="1041" height="951" alt="image" src="https://github.com/user-attachments/assets/9a481e1e-4de1-4d30-9c5a-2c4a5917e2e4" />
+<img width="1200" height="717" alt="image" src="https://github.com/user-attachments/assets/142c2012-52d6-4564-9d8f-72583f567243" />
+
+Install the Agent in Slack
+<img width="1202" height="946" alt="image" src="https://github.com/user-attachments/assets/40592f26-2ded-4553-ac3a-ff66daca6a2f" />
+
+Output With agent:
+<img width="1862" height="907" alt="image" src="https://github.com/user-attachments/assets/22cf538d-5dd2-458a-81ad-859a6b65fe54" />
+
+
+Freshdesk Name Cred
+<img width="1563" height="648" alt="image" src="https://github.com/user-attachments/assets/cad36e53-c69b-45d1-9274-98a11e0171e2" />
+
+
+Agentforce + Slack + Freshdesk output:
+<img width="1887" height="902" alt="image" src="https://github.com/user-attachments/assets/98d84e26-7c3f-4300-ac65-b591035a7ed8" />
+
+
 
 ## 📚 Reference
 
