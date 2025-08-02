@@ -1,16 +1,13 @@
 
 
-#Overview
-#Features
-#Setup instructions
-#How to use it in Agentforce
-#Example prompt
-#Notes on Named Credentials
-#You can include this in your Salesforce project repo or documentation.
+# Overview
+# Features
+# Setup instructions
+# How to use it in Agentforce
+# Example prompt
+# Notes on Named Credentials
+# You can include this in your Salesforce project repo or documentation.
 
-📄 README.md
-markdown
-CopyEdit
 
 # Freshdesk Solution Article Search for Salesforce (Agentforce)
 
