@@ -340,13 +340,14 @@ Freshdesk Name Cred
 
 Agentforce + Slack + Freshdesk output:
 <img width="1887" height="902" alt="image" src="https://github.com/user-attachments/assets/98d84e26-7c3f-4300-ac65-b591035a7ed8" />
+<img width="1906" height="960" alt="image" src="https://github.com/user-attachments/assets/ade9822c-f26c-4074-99aa-480733372e2c" />
 
 
 
 ## 📚 Reference
 
-- Freshdesk API Docs
-- Salesforce Invocable Methods
+- Freshdesk API Docs - https://developers.freshdesk.com/api/#list_all_tickets 
+- Salesforce Invocable Methods - https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm
 
 If you want this content packaged as a downloadable file or formatted for GitHub with badges and templates, I can help with that too.
 
